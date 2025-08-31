@@ -1,12 +1,20 @@
 
 ## Get started
 
-- Navigate to Your Project Directory: `cd prodev-mobile-setup`
+- Navigate to Your Project Directory
+```bash
+cd prodev-mobile-setup
+```
 
-- Initialize a new Expo project: `npx create-expo-app@latest prodev-mobile-app-0x00`
+- Initialize a new Expo project
+```bash
+npx create-expo-app@latest prodev-mobile-app-0x00
+```
 
-- Start the app: `npx expo start`
-
+- Start the app
+```bash
+npx expo start
+```
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
